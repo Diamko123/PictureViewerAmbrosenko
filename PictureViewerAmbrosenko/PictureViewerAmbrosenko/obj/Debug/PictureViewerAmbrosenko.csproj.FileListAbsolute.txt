@@ -1,0 +1,9 @@
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\bin\Debug\PictureViewerAmbrosenko.exe.config
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\bin\Debug\PictureViewerAmbrosenko.exe
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\bin\Debug\PictureViewerAmbrosenko.pdb
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.Properties.Resources.resources
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.csproj.GenerateResource.cache
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.csproj.CoreCompileInputs.cache
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.exe
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.pdb
+C:\Users\29375347\Desktop\PictureViewerAmbrosenko\PictureViewerAmbrosenko\obj\Debug\PictureViewerAmbrosenko.Form1.resources
